@@ -24,7 +24,7 @@ public:
     int getSize();
     vector<KitchenFurniture> getVector();
     KitchenFurniture indexSearch(int index);
-    bool arrayCheck();
+    bool arrayCheckFinder();
     bool compare(Array arr1, Array arr2);
     int toFile();
     int intoFile();
